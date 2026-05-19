@@ -1,1 +1,3 @@
 venv
+cnn/mnist_test.csv
+cnn/mnist_train.csv
